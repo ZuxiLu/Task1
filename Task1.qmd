@@ -3,4 +3,4 @@ title: 'Git Conflict'
 format: html
 ---
 # Introduction
-This is a simple git conflict demonstration.
+This is a simple Git conflict demo performed on a feature branch.
